@@ -1,0 +1,59 @@
+/* NAVBAR */
+
+nav {
+  background-color: #C12127;
+  color: rgba(255,255,255,0.8);
+  padding-top: 15px;
+  height: 100px;
+}
+
+nav a {
+  color: rgba(255,255,255,0.8);
+  text-decoration: none;
+}
+
+/* HEADER */
+
+header {
+  background-image: url("images/city-scape.svg")
+}
+
+.top-links {
+  display: inline-block;
+  float: right;
+  padding: 0;
+  margin: 0 20px 0 0;
+}
+
+.top-links li {
+  display: inline-block;
+  margin: 0 10px;
+}
+
+.searchbar {
+  background-color: rgb(31, 82, 111);
+}
+
+.centerdiv {
+  width: 1200px;
+  margin: 0 auto;
+  color: white;
+  background-color: rgb(32, 101, 136);
+}
+
+#cityscape {
+  float: right;
+}
+
+/* COLLABORATION SECTION */
+
+#collaboration .centerdiv {
+  width: 800px;
+  margin: 0 auto;
+  color: white;
+  background-color: rgb(32, 101, 136);
+  float: right;
+}
+
+/* SECTION 2 */
+/* SECTION 3 */
